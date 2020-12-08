@@ -48,8 +48,8 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.acamon97.vercel.app/api?username=Acamon97&show_icons=true&hide_border=true&theme=gruvbox" />
-<img align="right" alt="asdlñjk" src="https://github-readme-stats.acamon97.vercel.app/api/top-langs/?username=Acamon97&theme=dracula&layout=compact" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.acamon97.vercel.app/api?username=Acamon97&show_icons=true&hide_border=true&theme=highcontrast" />
+<img align="right" alt="asdlñjk" src="https://github-readme-stats.acamon97.vercel.app/api/top-langs/?username=Acamon97&theme=highcontrast&layout=compact" />
 
 
 [website]: https://codeSTACKr.com
