@@ -7,8 +7,6 @@
 - You can click here to see my [**Resume**](https://github.com/Acamon97/Acamon97/blob/master/CV/Aaron%20Casado%20Monge%20-%20Resume.pdf) *English* | [**Curriculum Vitae**](https://github.com/Acamon97/Acamon97/blob/master/CV/Aaron%20Casado%20Monge%20-%20CV.pdf) *Español*
 - Fun fact: I play drums, I love D&D and I don't know what the hell I'm doing with my life
 
-### I'm currently working im my Thesis about Document Clustering in R.
-
 ### Also, I have a wonderfull and wide musical taste, so here will appear whatever the heck I'm listening to right now in Spotify
 
  [![Spotify](https://novatorem.acamon97.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
