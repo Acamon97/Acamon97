@@ -27,11 +27,6 @@
 
 ### Here are some languages that I thing I know but I actually just steal code from StackOverflow...
 
-
-
-<br />
-
-### And languages that I want to learn in the future
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -52,7 +47,7 @@
 
 <br />
 
-### Also some tools I can work with without having to look the documentation every 2 min, only just every 10
+### And some tools I can work with without having to look in Google every 2 min, only just every 10
 
 
 <br />
