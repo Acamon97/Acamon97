@@ -1,7 +1,6 @@
 # How the hell did you get here?
 
-
-### Anywhere, hi there, I'm Aaron Casado - aka UnluckyStudent 
+### Anywhere, hi there, I'm Aaron Casado (UnluckyStudent) and I'm a Software Developer from Spain
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
@@ -11,7 +10,6 @@
 - My goal is to make funny things while learning and fill this github with useless projects
 - You can click here to see my Resume *English* | Curriculum Vitae *Español*
 - Fun fact: I play drums, I love D&D and I don't know what the hell I'm doing with my life
-- Spanish guy
 
 
 
