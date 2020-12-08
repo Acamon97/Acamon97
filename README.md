@@ -17,10 +17,10 @@
 ### And if you dont like it, feel free to tell me in any of my social media
 
 <p align="center">
-<a href="https://twitter.com/acamon_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaron-casado-monge/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" ></a>
-<a href="https://www.instagram.com/acamon.97/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/412610205818552330" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/acamon_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aaron-casado-monge/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" ></a>
+<a href="https://www.instagram.com/acamon.97/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/412610205818552330" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 ---
@@ -37,9 +37,21 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
-### And some tools and OS I can work with without having to look in Google every 2 min, only just every 10
+### Others that I'm learning or I want to learn
+
+<p align="center"> 
+<a href="https://www.scala-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="mongodb" width="40" height="40"/> </a> 
+
+</p>
+
+
+### And some tools and OS I can work with without having to look in Google every 2 minutes, only just every 10
 <p align="center">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="code" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gimp.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> </a>  
 </p>
