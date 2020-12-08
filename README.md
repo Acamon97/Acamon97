@@ -4,7 +4,7 @@
 
 - I'm trying to improve my knowledge in programing languages I already know and trying out new ones
 - My goal is to make funny things while learning and fill this github with useless projects
-- You can click here to see my **Resume** *English* | **Curriculum Vitae** *Español*
+- You can click here to see my [**Resume**](https://github.com/Acamon97/Acamon97/blob/master/CV/Aaron%20Casado%20Monge%20-%20Resume.pdf) *English* | [**Curriculum Vitae**](https://github.com/Acamon97/Acamon97/blob/master/CV/Aaron%20Casado%20Monge%20-%20CV.pdf) *Español*
 - Fun fact: I play drums, I love D&D and I don't know what the hell I'm doing with my life
 
 <br />
