@@ -11,7 +11,7 @@
 
 ### 🎧 Also, I have a wonderfull and wide musical taste, so here will appear whatever the heck I'm listening to right now in Spotify
 
-[![Spotify](https://1186489702.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
+[![Spotify](https://novatorem.acamon97.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
 
 
 ### And if you dont like it, feel free to tell me in any of my social media
