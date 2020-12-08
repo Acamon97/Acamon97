@@ -1,10 +1,6 @@
 # How the hell did you get here?
 
-### Anywhere, hi there, I'm Aaron Casado (UnluckyStudent) and I'm a Software Developer from Spain
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## I will be uploading here some stuff I made 
+## Anywhere, hi there, I'm Aaron Casado (UnluckyStudent) and I'm a Software Developer from Spain and I will be uploading here some of the stuff I made 
 
 - I'm trying to improve my knowledge in programing languages I already know and trying out new ones
 - My goal is to make funny things while learning and fill this github with useless projects
@@ -13,7 +9,7 @@
 
 
 
-### 🎧 I have a wonderfull and wide musical taste, so here will appear whatever the heck I'm listening to right now in Spotify
+### 🎧 Also, I have a wonderfull and wide musical taste, so here will appear whatever the heck I'm listening to right now in Spotify
 
 [<img src="https://now-playing-1186489702.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
@@ -24,10 +20,10 @@
 [<img align="left" alt="Aarón | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Aarón | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][discord]
 
-
+![Twitter Follow](https://img.shields.io/twitter/follow/Acamon_?label=Aaron%27s%20Twitter&logo=Twitter&style=for-the-badge)
 <br />
 
-### Languages that I thing I know but I actually just steal code from StackOverflow
+### Here are some languages that I thing I know but I actually just steal code from StackOverflow...
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -52,7 +48,7 @@
 
 <br />
 
-### Also some tools I can work with without having to look the documentation every 2 min, just only every 10
+### Also some tools I can work with without having to look the documentation every 2 min, only just every 10
 
 
 <br />
