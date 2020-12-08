@@ -46,10 +46,10 @@
 <br />
 <br />
 
----
+--- 
 
-<a <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.acamon97.vercel.app/api?username=Acamon97&show_icons=true&hide_border=true&theme=radical" /> /a>
-<a <img align="center" alt="asdlñjk" src="https://github-readme-stats.acamon97.vercel.app/api/top-langs/?username=Acamon97&layout=compact&theme=radical" /> /a>
+<img align="left" alt="Aarón's GitHub Stats" src="https://github-readme-stats.acamon97.vercel.app/api?username=Acamon97&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.acamon97.vercel.app/api/top-langs/?username=Acamon97&layout=compact&theme=radical" />
 
 
 
