@@ -1,18 +1,25 @@
-### Hi there, I'm Aaron Casado - aka UnluckyStudent 
+# How the hell did you get here?
+
+
+### Anywhere, hi there, I'm Aaron Casado - aka UnluckyStudent 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I will upload here some stuff I made 
+## I will be uploading here some stuff I made 
 
 - I'm trying to improve my knowledge in programing languages I already know and trying out new ones
 - My goal is to make funny things while learning and fill this GitHub with useless projects
-- Fun fact: I love to draw and I play drums
+- Fun fact: I play drums and I don't know what the hell I'm doing with my life
+- Spanish guy
 
-### Spotify Playing 🎧
+*NOTE: Thats my personal Twitter account, just to make me feel more important and because it looks pretty.*
+
+
+### I have an wonderfull musical taste, so here will appear whatever the heck I'm listening to right now in Spotify 🎧
 
 [<img src="https://now-playing-1186489702.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
+### And if you dont like it, feel free to tell me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -22,7 +29,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages that I thing I know but I just steal code from StackOverflow:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -41,6 +48,12 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+### And languages that I want to learn in the future:
+
+
+### Also some tools I can work with without having to look the documentation every 2 min, but only every 10:
+
+
 <br />
 <br />
 
@@ -49,6 +62,8 @@
 <img align="center" alt="Aarón's GitHub Stats" src="https://github-readme-stats.acamon97.vercel.app/api?username=Acamon97&show_icons=true&hide_border=true&theme=radical" />
 <img align="center" alt="Most Used Languages" src="https://github-readme-stats.acamon97.vercel.app/api/top-langs/?username=Acamon97&hide_border=true&layout=compact&theme=radical" />
 
+
+*Note: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 
 
