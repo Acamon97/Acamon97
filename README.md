@@ -69,8 +69,14 @@
 *Note: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 
-
+[discord]: https://discordapp.com/users/412610205818552330
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[discord]: https://discordapp.com/users/412610205818552330
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
