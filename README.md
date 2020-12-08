@@ -7,7 +7,7 @@
 - You can click here to see my **Resume** *English* | **Curriculum Vitae** *Español*
 - Fun fact: I play drums, I love D&D and I don't know what the hell I'm doing with my life
 
-
+<br />
 
 ### Also, I have a wonderfull and wide musical taste, so here will appear whatever the heck I'm listening to right now in Spotify
 
@@ -45,20 +45,13 @@
 </p>
 
 <br />
-<br />
 
 --- 
 
 <img align="center" alt="Aarón's GitHub Stats" src="https://github-readme-stats.acamon97.vercel.app/api?username=Acamon97&show_icons=true&hide_border=true&theme=radical" />
 <img align="center" alt="Most Used Languages" src="https://github-readme-stats.acamon97.vercel.app/api/top-langs/?username=Acamon97&hide_border=true&layout=compact&theme=radical" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=acamon97&label=Profile%20views&color=0e75b6&style=flat" alt="acamon97" /> </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acamon97&show_icons=true&locale=en&layout=compact" alt="acamon97" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acamon97&show_icons=true&locale=en" alt="acamon97" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acamon97&" alt="acamon97" /></p>
 
 
 *Note: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
