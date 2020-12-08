@@ -8,28 +8,28 @@
 ## I will be uploading here some stuff I made 
 
 - I'm trying to improve my knowledge in programing languages I already know and trying out new ones
-- My goal is to make funny things while learning and fill this GitHub with useless projects
-- Fun fact: I play drums and I don't know what the hell I'm doing with my life
+- My goal is to make funny things while learning and fill this github with useless projects
+- You can click here to see my Resume *English* | Curriculum Vitae *Español*
+- Fun fact: I play drums, I love D&D and I don't know what the hell I'm doing with my life
 - Spanish guy
 
-*NOTE: Thats my personal Twitter account, just to make me feel more important and because it looks pretty.*
 
 
-### I have an wonderfull musical taste, so here will appear whatever the heck I'm listening to right now in Spotify 🎧
+### 🎧 I have a wonderfull and wide musical taste, so here will appear whatever the heck I'm listening to right now in Spotify
 
 [<img src="https://now-playing-1186489702.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### And if you dont like it, feel free to tell me:
+### And if you dont like it, feel free to tell me in any of my social media
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Aarón | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aarón | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aarón | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Aarón | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][discord]
+
 
 <br />
 
-### Languages that I thing I know but I just steal code from StackOverflow:
+### Languages that I thing I know but I actually just steal code from StackOverflow
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -48,10 +48,13 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-### And languages that I want to learn in the future:
+<br />
 
+### And languages that I want to learn in the future
 
-### Also some tools I can work with without having to look the documentation every 2 min, but only every 10:
+<br />
+
+### Also some tools I can work with without having to look the documentation every 2 min, just only every 10
 
 
 <br />
@@ -63,17 +66,11 @@
 <img align="center" alt="Most Used Languages" src="https://github-readme-stats.acamon97.vercel.app/api/top-langs/?username=Acamon97&hide_border=true&layout=compact&theme=radical" />
 
 
-*Note: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
+*Note: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[discord]: https://discordapp.com/users/412610205818552330
