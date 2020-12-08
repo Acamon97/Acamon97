@@ -11,7 +11,8 @@
 
 ### 🎧 Also, I have a wonderfull and wide musical taste, so here will appear whatever the heck I'm listening to right now in Spotify
 
-[<img src="https://now-playing-1186489702.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://1186489702.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
+
 
 ### And if you dont like it, feel free to tell me in any of my social media
 
@@ -20,7 +21,6 @@
 [<img align="left" alt="Aarón | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Aarón | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][discord]
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Acamon_?label=Aaron%27s%20Twitter&logo=Twitter&style=for-the-badge)
 <br />
 
 ### Here are some languages that I thing I know but I actually just steal code from StackOverflow...
