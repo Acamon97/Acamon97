@@ -22,7 +22,7 @@
 </p>
 
 ---
-### Nerdy computer stuff
+## Nerdy computer stuff
 Here are some languages that I thing I know but I actually just steal code from StackOverflow...
 
 <p align="center"> 
@@ -63,7 +63,7 @@ And some tools and OS I can work with without having to look in Google every 2 m
 
 --- 
 
-## And some stats about my GitHub that just look pretty
+### And some stats about my GitHub that just look pretty
 <img align="center" alt="Aarón's GitHub Stats" src="https://github-readme-stats.acamon97.vercel.app/api?username=Acamon97&show_icons=true&hide_border=true&theme=radical" />
 <img align="center" alt="Most Used Languages" src="https://github-readme-stats.acamon97.vercel.app/api/top-langs/?username=Acamon97&hide_border=true&layout=compact&theme=radical" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=acamon97&label=Profile%20views&color=0e75b6&style=flat" alt="acamon97" /> </p>
