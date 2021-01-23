@@ -26,13 +26,14 @@
 Here are some languages that I thing I know but I actually just steal code from StackOverflow...
 
 <p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
-<a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
+<a href="https://www.java.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org/about.html" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
 Others that I'm learning or I want to learn
