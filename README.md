@@ -57,6 +57,8 @@ And some tools and OS I can work with without having to look in Google every 2 m
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.gimp.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> </a>  
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://dbeaver.io/" target="_blank"> <img src="https://en.wikipedia.org/wiki/File:DBeaver_logo.svg" alt="dbeaver" width="40" height="40"/> </a>
+
 </p>
 
 <br />
