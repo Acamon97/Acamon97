@@ -10,7 +10,7 @@
 
  [![Spotify](https://novatorem.acamon97.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
  [![Spotify](https://acamon97.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
-
+ [![Spotify](https://spotify-846xmlccq-acamon97.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
 
 
 ### And if you dont like it, feel free to tell me in any of my social media
