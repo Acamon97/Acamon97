@@ -8,8 +8,6 @@
 
 ### As a musician I have a wonderfull and wide musical taste, so here will appear whatever the heck I'm listening to right now in Spotify
 
- [![Spotify](https://novatorem.acamon97.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
- [![Spotify](https://acamon97.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
  [![Spotify](https://spotify-846xmlccq-acamon97.vercel.app/api/spotify)](https://open.spotify.com/user/1186489702)
 
 
