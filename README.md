@@ -15,7 +15,6 @@
  And if you dont like it, feel free to tell me in any of my social media
 
 <p align="center">
-<a href="https://twitter.com/acamon_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aaron-casado-monge/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" ></a>
 <a href="https://www.instagram.com/acamon.97/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/412610205818552330" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Twitter" height="30" width="40" /></a>
